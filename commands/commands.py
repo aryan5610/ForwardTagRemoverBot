@@ -19,10 +19,10 @@ from config import Config
 #Inline Keyboard Button
 keyboard = [
 [
- InlineKeyboardButton("Source Code", url=Config.SOURCE)
+ InlineKeyboardButton("Anime channel 📺", url="https://t.me/anime_volume")
 ],
 [
- InlineKeyboardButton("How To Create A Bot Like Me",url="https://youtu.be/swg6un2N4Fk")
+ InlineKeyboardButton("Anime Wallpaper ",url="https://t.me/handpickedl")
 ]
 ]
 
